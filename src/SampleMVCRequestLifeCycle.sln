@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleMVCRequestLifeCycle", "SampleMVCRequestLifeCycle\SampleMVCRequestLifeCycle.csproj", "{DE6C56B2-ADDB-4DE6-91A4-4212A157CA6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6C56B2-ADDB-4DE6-91A4-4212A157CA6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6C56B2-ADDB-4DE6-91A4-4212A157CA6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6C56B2-ADDB-4DE6-91A4-4212A157CA6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6C56B2-ADDB-4DE6-91A4-4212A157CA6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F609E5-EA24-4760-931A-546C55BFAE48}
+	EndGlobalSection
+EndGlobal
